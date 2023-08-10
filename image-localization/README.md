@@ -4,7 +4,6 @@ This directory contains resources for image overlay localization.
 ## Translations Stats
 | Image Path                                                                       | Status        |
 | -------------------------------------------------------------------------------- |:-------------:|
-| `data/campaigns/An_Orcish_Incursion/images/maps/l10n/cs/aoi--overlay.png`        | doesn't exist |
 | `data/campaigns/Dead_Water/images/maps/l10n/cs/dw--overlay.png`                  | doesn't exist |
 | `data/campaigns/Descent_Into_Darkness/images/maps/l10n/cs/did--overlay.png`      | doesn't exist |
 | `data/campaigns/Eastern_Invasion/images/maps/l10n/cs/ei--overlay.png`            | doesn't exist |
@@ -16,18 +15,17 @@ This directory contains resources for image overlay localization.
 | `data/campaigns/Son_Of_The_Black_Eye/images/maps/l10n/cs/sotbe--overlay.png`     | doesn't exist |
 | `data/campaigns/The_Hammer_of_Thursagan/images/maps/l10n/cs/thot--overlay.png`   | doesn't exist |
 | `data/campaigns/The_Rise_Of_Wesnoth/images/maps/l10n/cs/green_isle--overlay.png` | doesn't exist |
-| `data/campaigns/The_Rise_Of_Wesnoth/images/story/l10n/cs/trow-logo.png`          | doesn't exist |
+| `data/campaigns/The_Rise_Of_Wesnoth/images/story/l10n/cs/trow-logo.png`          |      OK       |
 | `data/campaigns/The_South_Guard/images/maps/l10n/cs/tsg--overlay.png`            | doesn't exist |
 | `data/campaigns/Two_Brothers/images/maps/l10n/cs/tb--overlay.png`                | doesn't exist |
-| `data/core/images/help/l10n/cs/hpxp.png`                                         |    outdated   |
-| `data/core/images/help/l10n/cs/recruit.png`                                      |    outdated   |
-| `data/core/images/help/l10n/cs/tooltip.png`                                      |    outdated   |
+| `data/core/images/help/l10n/cs/hpxp.png`                                         |      OK       |
+| `data/core/images/help/l10n/cs/recruit.png`                                      |      OK       |
+| `data/core/images/help/l10n/cs/tooltip.png`                                      |      OK       |
 | `data/core/images/maps/l10n/cs/titlescreen--overlay.png`                         | doesn't exist |
 | `data/core/images/maps/l10n/cs/wesnoth--overlay.png`                             | doesn't exist |
 | `images/misc/l10n/cs/logo.png`                                                   |      OK       |
 
 ## Useful links
-* [current image-localization status](https://github.com/wesnoth/wesnoth/blob/master/l10n-track)
 * [wesnoth resources](https://github.com/wesnoth/resources)
 * [ImageLocalization Wiki](https://wiki.wesnoth.org/ImageLocalization)
 * [Gimp For Translators tutorial](https://wiki.wesnoth.org/ImageLocalization#Gimp_For_Translators)
